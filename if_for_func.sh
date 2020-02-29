@@ -2,7 +2,6 @@
 if [ -f cc ]; then 
     rm -f cc
 fi
-touch cc
 
 for data in `cat $1`
 do
