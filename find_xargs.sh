@@ -8,5 +8,5 @@ find . -name "*.log" | xargs -p rm -fv
 find . -name "*.log" | xargs -i cp {} /tmp/.
 
 
-# 一括置換
+# 一括置換  https://qiita.com/blackenedgold/items/3231c8adec40b350cf33
 find . -name "*.jmx" | xargs sed -i '' "s/xxxxx/localhsot/g"
