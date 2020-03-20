@@ -1,3 +1,14 @@
 {
-    "python.pythonPath": "/Users/ryo/.pyenv/versions/3.7.4/bin/python"
+    "python.pythonPath": "/Users/ryo/.pyenv/versions/3.7.4/bin/python",
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "postgres",
+            "dialect": "PostgreSQL",
+            "name": "test",
+            "port": 25432,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ]
 }
