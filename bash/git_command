@@ -1,0 +1,6 @@
+
+shutdown コマンドの+30をしらべる
+cut
+env EDITOR
+シンボリックリンくのpermissionはもとのフィアルと同じ
+lrwxrwxrwxに見える

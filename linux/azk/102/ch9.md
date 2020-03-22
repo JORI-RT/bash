@@ -1,0 +1,1 @@
+/etc/skel/....   ... exist file that when useradd command execute copy

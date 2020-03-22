@@ -1,1 +1,0 @@
-TODO マテリビューの作成 実行時間の評価c (id CHAR(4) NOT NULL, name TEXT NOT NULL, age INTEGER , PRIMARY KEY (id))

@@ -1,5 +1,0 @@
-01:orange:250:Tokyo
-02:apple:230:Nagoya
-03:apple:130:Nagoya
-04:grape:450:Tokyo
-05:orange:150:Osaka
