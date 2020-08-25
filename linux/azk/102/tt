@@ -1,6 +1,0 @@
-if test -f tt 
-then
-    source tt
-else
-    echo nofile
-fi
