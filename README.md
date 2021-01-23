@@ -26,3 +26,22 @@ ls hoge; echo $?
 ```
 mkdir azure_smaple && cd $_
 ```
+
+---
+## opensslでBASE64のランダム文字列の生成
+```sh
+# 生成
+openssl rand -base64 32
+echo hoge | openssl enc -e -base64
+
+```
+## base64のdecode
+```sh
+echo hoge | openssl enc -d -base64
+echo hoge | base64 --decode 
+
+```
+## jqの扱いかた
+```
+https://qiita.com/takeshinoda@github/items/2dec7a72930ec1f658af
+```
